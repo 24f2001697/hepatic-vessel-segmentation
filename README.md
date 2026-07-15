@@ -23,9 +23,7 @@ pretrained weights.
 ## Sample Predictions
 
 ### SegResNet (Best Model — Dice 0.6906)
-| CT Image |
-|---|---|---|
-| ![](https://github.com/24f2001697/hepatic-vessel-segmentation/blob/main/Outputs/Predictions/swinunetr_prediction_case_0.png) | | |
+![](https://github.com/24f2001697/hepatic-vessel-segmentation/blob/main/Outputs/Predictions/swinunetr_prediction_case_0.png)
 
 ---
 
