@@ -1,0 +1,21 @@
+# Model checkpoints (too large for GitHub)
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Kaggle credentials (never push)
+kaggle.json
+/root/.kaggle/
+
+# Temp folders
+push_tmp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
